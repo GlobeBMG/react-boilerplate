@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.App h1 {
+  color: Navy;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.App h2 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+.App .btn {
+  margin: 5px;
+}
